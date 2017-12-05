@@ -21,7 +21,9 @@ npm start
 
 先打开MongoDB,另起一个命令窗口
 
-cd server node server.js，启动后端服务
+启动后端服务
+cd server 
+node server.js
 ```
 
 
