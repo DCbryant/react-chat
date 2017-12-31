@@ -26,6 +26,26 @@ cd server
 node server.js
 ```
 
+# 项目本地运行截图
+
+![首页](./screenshots/首页.png)
+
+![注册](./screenshots/注册.png)
+
+![注册信息完善页](./screenshots/注册信息完善页.png)
+
+![boss列表](./screenshots/boss列表.png)
+
+![消息列表](./screenshots/消息列表.png)
+
+![用户信息](./screenshots/用户信息.png)
+
+![用户注销](./screenshots/用户注销.png)
+
+![聊天页面](./screenshots/聊天页面.png)
+
+![发送信息页](./screenshots/发送信息页.png)
+
 
 
 
